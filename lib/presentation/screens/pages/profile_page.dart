@@ -1,6 +1,5 @@
 import 'package:comicbookapp/l10n/app_localizations.dart';
 import 'package:comicbookapp/presentation/screens/pages/widgets/app_version_footer.dart';
-import 'package:comicbookapp/presentation/screens/pages/widgets/gradient_section_button.dart';
 import 'package:comicbookapp/presentation/screens/pages/widgets/menu_grid_card.dart';
 import 'package:comicbookapp/presentation/screens/pages/widgets/menu_list_row.dart';
 import 'package:comicbookapp/presentation/screens/pages/widgets/user_profile_card.dart';

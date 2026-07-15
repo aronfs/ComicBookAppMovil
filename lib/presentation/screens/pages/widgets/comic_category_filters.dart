@@ -16,7 +16,7 @@ class ComicCategoryFilters extends StatelessWidget {
         scrollDirection: Axis.horizontal,
         padding: const EdgeInsets.symmetric(horizontal: 12),
         itemCount: categories.length,
-        separatorBuilder: (_, __) => const SizedBox(width: 9),
+        separatorBuilder: (_, _) => const SizedBox(width: 9),
         itemBuilder: (context, index) {
           final selected = index == 0;
 

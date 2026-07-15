@@ -10,7 +10,7 @@ final theme = MaterialTheme.lightScheme();
 
 class AppThemeData {
 
-  static get themeSplash => ThemeData(
+  static ThemeData get themeSplash => ThemeData(
     useMaterial3: true,
     colorScheme: theme,
     scaffoldBackgroundColor: theme.primary,
@@ -19,7 +19,7 @@ class AppThemeData {
         )
   );
 
-  static get themeWelcome => ThemeData(
+  static ThemeData get themeWelcome => ThemeData(
       useMaterial3: true,
       colorScheme: theme,
       scaffoldBackgroundColor: theme.primary,
@@ -34,7 +34,7 @@ class AppThemeData {
   borderSide: BorderSide(color: theme.onPrimary),
   );
 
-  static get themeForms => ThemeData(
+  static ThemeData get themeForms => ThemeData(
       useMaterial3: true,
       colorScheme: theme,
       scaffoldBackgroundColor: theme.onPrimary,

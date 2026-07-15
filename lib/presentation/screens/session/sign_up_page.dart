@@ -48,7 +48,7 @@ class _SignUpPageState extends State<SignUpPage> {
                   child: Image.asset(
                     'assets/images/banner.png',
                     fit: BoxFit.cover,
-                    errorBuilder: (_, __, ___) {
+                    errorBuilder: (_, _, _) {
                       return Container(
                         decoration: BoxDecoration(
                           gradient: LinearGradient(
