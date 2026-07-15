@@ -1,0 +1,326 @@
+{
+  "appName": "ComicVerse",
+  "@appName": {
+    "description": "Nombre de la aplicación"
+  },
+  "splashSubtitle": "Explora el Universo de los Cómics",
+  "@splashSubtitle": {
+    "description": "Subtítulo en la pantalla de inicio"
+  },
+
+  "signIn": "Iniciar Sesión",
+  "@signIn": {
+    "description": "Botón de iniciar sesión"
+  },
+  "signUp": "Registrarse",
+  "@signUp": {
+    "description": "Botón de registrarse"
+  },
+  "next": "Siguiente",
+  "@next": {
+    "description": "Botón de siguiente"
+  },
+  "previous": "Anterior",
+  "@previous": {
+    "description": "Botón de anterior"
+  },
+  "welcome": "Bienvenido",
+  "@welcome": {
+    "description": "Bienvenido"
+  },
+  "getStarted": "Accede a tu colección privada",
+  "@getStarted": {
+    "description": "Descripción de inicio"
+  },
+  "hintEmail": "Correo",
+  "@hintEmail": {
+    "description": "Indicación de correo"
+  },
+  "hintPassword": "Contraseña",
+  "@hintPassword": {
+    "description": "Indicación de contraseña"
+  },
+  "register": "Registrar Cuenta",
+  "@register": {
+    "description": "Registrar cuenta"
+  },
+  "detailRegister": "Rellena tus detalles o continúa con redes sociales",
+  "@detailRegister": {
+    "description": "Rellena tus detalles o continúa con redes sociales"
+  },
+  "hintName": "Nombre de usuario",
+  "@hintName": {
+    "description": "Indicación de nombre"
+  },
+  "labelName": "Tu Nombre",
+  "@labelName": {
+    "description": "Tu Nombre"
+  },
+  "labelEmail": "Correo Electrónico",
+  "@labelEmail": {
+    "description": "Tu Correo"
+  },
+  "labelPassword": "Contraseña",
+  "@labelPassword": {
+    "description": "Tu Contraseña"
+  },
+
+  "navCatalog": "Catálogo",
+  "@navCatalog": {
+    "description": "Etiqueta de pestaña Catálogo"
+  },
+  "navUpload": "Subir",
+  "@navUpload": {
+    "description": "Etiqueta de pestaña Subir"
+  },
+  "navProfile": "Perfil",
+  "@navProfile": {
+    "description": "Etiqueta de pestaña Perfil"
+  },
+  "navHome": "Inicio",
+  "@navHome": {
+    "description": "Etiqueta de pestaña Inicio"
+  },
+  "navLibrary": "Biblioteca",
+  "@navLibrary": {
+    "description": "Etiqueta de pestaña Biblioteca"
+  },
+  "navFavorites": "Favoritos",
+  "@navFavorites": {
+    "description": "Etiqueta de pestaña Favoritos"
+  },
+
+  "searchHint": "Busca títulos, autores o géneros...",
+  "@searchHint": {
+    "description": "Texto de ayuda en la barra de búsqueda"
+  },
+
+  "catAll": "Todos",
+  "@catAll": {
+    "description": "Filtro de todas las categorías"
+  },
+  "catAction": "Acción",
+  "@catAction": {
+    "description": "Categoría Acción"
+  },
+  "catSciFi": "Ciencia Ficción",
+  "@catSciFi": {
+    "description": "Categoría Ciencia Ficción"
+  },
+  "catManga": "Manga",
+  "@catManga": {
+    "description": "Categoría Manga"
+  },
+  "catFantasy": "Fantasía",
+  "@catFantasy": {
+    "description": "Categoría Fantasía"
+  },
+
+  "comicBadgeAvailable": "Disponible",
+  "@comicBadgeAvailable": {
+    "description": "Texto de insignia disponible"
+  },
+  "comicBadgeNext": "Próximo",
+  "@comicBadgeNext": {
+    "description": "Texto de insignia próximo"
+  },
+
+  "formTitle": "Ingresa el Título del Cómic",
+  "@formTitle": {
+    "description": "Etiqueta del campo de título"
+  },
+  "formTitleHint": "ej. The Amazing Spider-Man",
+  "@formTitleHint": {
+    "description": "Indicación del campo de título"
+  },
+  "formEditorial": "Ingresa la Editorial del Cómic",
+  "@formEditorial": {
+    "description": "Etiqueta del campo de editorial"
+  },
+  "formEditorialHint": "ej. Marvel Comics",
+  "@formEditorialHint": {
+    "description": "Indicación del campo de editorial"
+  },
+  "formNumTomos": "Ingresa el Número de Tomos",
+  "@formNumTomos": {
+    "description": "Etiqueta del número de tomos"
+  },
+  "formGenero": "Selecciona el Género del Cómic",
+  "@formGenero": {
+    "description": "Etiqueta del desplegable de género"
+  },
+  "formDescripcion": "Descripción del Cómic",
+  "@formDescripcion": {
+    "description": "Etiqueta del campo de descripción"
+  },
+  "formDescripcionHint": "Breve resumen del arco argumental...",
+  "@formDescripcionHint": {
+    "description": "Indicación del campo de descripción"
+  },
+  "formTipo": "Selecciona el Tipo de Cómic",
+  "@formTipo": {
+    "description": "Etiqueta del desplegable de tipo"
+  },
+  "formPdfLabel": "Elige un PDF",
+  "@formPdfLabel": {
+    "description": "Etiqueta de carga de PDF"
+  },
+  "formPdfButton": "CARGAR",
+  "@formPdfButton": {
+    "description": "Botón de carga de PDF"
+  },
+  "formSubmit": "REGISTRAR CÓMIC",
+  "@formSubmit": {
+    "description": "Etiqueta del botón de enviar"
+  },
+  "formCancel": "CANCELAR",
+  "@formCancel": {
+    "description": "Etiqueta del botón de cancelar"
+  },
+
+  "genreSuperhero": "Superhéroe",
+  "@genreSuperhero": {
+    "description": "Género Superhéroe"
+  },
+  "genreManga": "Manga",
+  "@genreManga": {
+    "description": "Género Manga"
+  },
+  "genreSciFi": "Ciencia Ficción",
+  "@genreSciFi": {
+    "description": "Género Ciencia Ficción"
+  },
+  "genreHorror": "Terror",
+  "@genreHorror": {
+    "description": "Género Terror"
+  },
+  "genreFantasy": "Fantasía",
+  "@genreFantasy": {
+    "description": "Género Fantasía"
+  },
+  "genreRomance": "Romance",
+  "@genreRomance": {
+    "description": "Género Romance"
+  },
+
+  "typeGraphicNovel": "Novela Gráfica",
+  "@typeGraphicNovel": {
+    "description": "Tipo Novela Gráfica"
+  },
+  "typeManga": "Manga",
+  "@typeManga": {
+    "description": "Tipo Manga"
+  },
+  "typeOneShot": "One-Shot",
+  "@typeOneShot": {
+    "description": "Tipo One-Shot"
+  },
+  "typeMiniSerie": "Mini-Serie",
+  "@typeMiniSerie": {
+    "description": "Tipo Mini-Serie"
+  },
+  "typeSerieOngoing": "Serie Ongoing",
+  "@typeSerieOngoing": {
+    "description": "Tipo Serie Ongoing"
+  },
+
+  "profileTitle": "PERFIL",
+  "@profileTitle": {
+    "description": "Título de la sección de perfil"
+  },
+  "profileCatalogs": "CATÁLOGOS",
+  "@profileCatalogs": {
+    "description": "Elemento de menú Catálogos"
+  },
+  "profilePublication": "PUBLICACIÓN\nCÓMIC",
+  "@profilePublication": {
+    "description": "Elemento de menú Publicación de cómic"
+  },
+  "profileOnlineUsers": "USUARIOS EN LÍNEA",
+  "@profileOnlineUsers": {
+    "description": "Elemento de menú Usuarios en línea"
+  },
+  "profileEditComics": "EDITAR CÓMICS",
+  "@profileEditComics": {
+    "description": "Elemento de menú Editar cómics"
+  },
+  "ageLabel": "Edad",
+  "@ageLabel": {
+    "description": "Etiqueta de edad"
+  },
+  "typeLabel": "Tipo",
+  "@typeLabel": {
+    "description": "Etiqueta de tipo"
+  },
+  "versionName": "ComicBook Creator Suite",
+  "@versionName": {
+    "description": "Nombre de la versión de la app"
+  },
+
+  "collectorIdentity": "IDENTIDAD DEL COLECCIONISTA",
+  "@collectorIdentity": {
+    "description": "Título de la tarjeta de identidad del coleccionista"
+  },
+  "serialId": "ID DE SERIE",
+  "@serialId": {
+    "description": "Etiqueta de ID de serie"
+  },
+  "archiveReference": "REFERENCIA DE ARCHIVO",
+  "@archiveReference": {
+    "description": "Etiqueta de referencia de archivo"
+  },
+  "savePdf": "GUARDAR PDF",
+  "@savePdf": {
+    "description": "Botón Guardar PDF"
+  },
+  "regTemplate": "Plantilla de Registro",
+  "@regTemplate": {
+    "description": "Título de la plantilla de registro"
+  },
+  "regTemplateDesc": "Tu entrada de colección de cómics ha sido procesada y está lista para archivar.",
+  "@regTemplateDesc": {
+    "description": "Descripción de la plantilla de registro"
+  },
+  "dateCreated": "Fecha de Creación",
+  "@dateCreated": {
+    "description": "Etiqueta de fecha de creación"
+  },
+  "location": "Ubicación",
+  "@location": {
+    "description": "Etiqueta de ubicación"
+  },
+  "address": "Dirección",
+  "@address": {
+    "description": "Valor de dirección"
+  },
+  "exportNote": "Tu exportación se guardará en tu carpeta de descargas local.",
+  "@exportNote": {
+    "description": "Texto de nota de exportación"
+  },
+
+  "hintFirstName": "Nombre",
+  "@hintFirstName": {
+    "description": "Indicación de nombre"
+  },
+  "labelFirstName": "Nombre",
+  "@labelFirstName": {
+    "description": "Etiqueta de nombre"
+  },
+  "hintLastName": "Apellido",
+  "@hintLastName": {
+    "description": "Indicación de apellido"
+  },
+  "labelLastName": "Apellido",
+  "@labelLastName": {
+    "description": "Etiqueta de apellido"
+  },
+  "labelUsername": "Nombre de Usuario",
+  "@labelUsername": {
+    "description": "Etiqueta de nombre de usuario"
+  },
+
+  "errorRoute": "¡Error! No se encontró la página",
+  "@errorRoute": {
+    "description": "Mensaje de error de ruta"
+  }
+}

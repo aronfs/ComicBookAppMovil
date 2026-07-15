@@ -1,0 +1,1 @@
+import 'package:flutter/material.dart'; class DetailAppBar extends StatelessWidget{const DetailAppBar({super.key});@override Widget build(BuildContext c)=>const Padding(padding:EdgeInsets.all(12),child:Row(children:[Icon(Icons.arrow_back_ios,size:16,color:Colors.deepPurple),SizedBox(width:4),Text('Catalog',style:TextStyle(color:Colors.deepPurple))]));}

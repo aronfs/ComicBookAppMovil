@@ -1,0 +1,326 @@
+{
+  "appName": "ComicVerse",
+  "@appName": {
+    "description": "Application name"
+  },
+  "splashSubtitle": "Explore the Universe of Comics",
+  "@splashSubtitle": {
+    "description": "Subtitle in splash screen"
+  },
+
+  "signIn": "Sign in",
+  "@signIn": {
+    "description": "Sign in button"
+  },
+  "signUp": "Sign Up",
+  "@signUp": {
+    "description": "Sign up button"
+  },
+  "next": "Next",
+  "@next": {
+    "description": "Next button"
+  },
+  "previous": "Previous",
+  "@previous": {
+    "description": "Previous button"
+  },
+  "welcome": "Welcome",
+  "@welcome": {
+    "description": "Welcome"
+  },
+  "getStarted": "Get access to your private collection",
+  "@getStarted": {
+    "description": "Get started description"
+  },
+  "hintEmail": "Email",
+  "@hintEmail": {
+    "description": "Hint Email"
+  },
+  "hintPassword": "Password",
+  "@hintPassword": {
+    "description": "Hint Password"
+  },
+  "register": "Register Account",
+  "@register": {
+    "description": "Register Account"
+  },
+  "detailRegister": "Fill your details or continue with social media",
+  "@detailRegister": {
+    "description": "Fill your details or continue with social media"
+  },
+  "hintName": "username",
+  "@hintName": {
+    "description": "Hint Name"
+  },
+  "labelName": "Your Name",
+  "@labelName": {
+    "description": "Your Name"
+  },
+  "labelEmail": "Email Address",
+  "@labelEmail": {
+    "description": "Your Email"
+  },
+  "labelPassword": "Password",
+  "@labelPassword": {
+    "description": "Your Password"
+  },
+
+  "navCatalog": "Catalog",
+  "@navCatalog": {
+    "description": "Catalog tab label"
+  },
+  "navUpload": "Upload",
+  "@navUpload": {
+    "description": "Upload tab label"
+  },
+  "navProfile": "Profile",
+  "@navProfile": {
+    "description": "Profile tab label"
+  },
+  "navHome": "Home",
+  "@navHome": {
+    "description": "Home tab label"
+  },
+  "navLibrary": "Library",
+  "@navLibrary": {
+    "description": "Library tab label"
+  },
+  "navFavorites": "Favorites",
+  "@navFavorites": {
+    "description": "Favorites tab label"
+  },
+
+  "searchHint": "Search titles, authors, or genres...",
+  "@searchHint": {
+    "description": "Search bar hint text"
+  },
+
+  "catAll": "All",
+  "@catAll": {
+    "description": "All categories filter"
+  },
+  "catAction": "Action",
+  "@catAction": {
+    "description": "Action category"
+  },
+  "catSciFi": "Sci-Fi",
+  "@catSciFi": {
+    "description": "Sci-Fi category"
+  },
+  "catManga": "Manga",
+  "@catManga": {
+    "description": "Manga category"
+  },
+  "catFantasy": "Fantasy",
+  "@catFantasy": {
+    "description": "Fantasy category"
+  },
+
+  "comicBadgeAvailable": "Disponible",
+  "@comicBadgeAvailable": {
+    "description": "Available badge text"
+  },
+  "comicBadgeNext": "Próximo",
+  "@comicBadgeNext": {
+    "description": "Coming next badge text"
+  },
+
+  "formTitle": "Enter the Comic Title",
+  "@formTitle": {
+    "description": "Title field label"
+  },
+  "formTitleHint": "e.g. The Amazing Spider-Man",
+  "@formTitleHint": {
+    "description": "Title field hint"
+  },
+  "formEditorial": "Enter the Comic Publisher",
+  "@formEditorial": {
+    "description": "Publisher field label"
+  },
+  "formEditorialHint": "e.g. Marvel Comics",
+  "@formEditorialHint": {
+    "description": "Publisher field hint"
+  },
+  "formNumTomos": "Enter the number of Volumes",
+  "@formNumTomos": {
+    "description": "Number of volumes label"
+  },
+  "formGenero": "Select the Comic Genre",
+  "@formGenero": {
+    "description": "Genre dropdown label"
+  },
+  "formDescripcion": "Comic Description",
+  "@formDescripcion": {
+    "description": "Description field label"
+  },
+  "formDescripcionHint": "Brief summary of the arc...",
+  "@formDescripcionHint": {
+    "description": "Description field hint"
+  },
+  "formTipo": "Select Comic Type",
+  "@formTipo": {
+    "description": "Type dropdown label"
+  },
+  "formPdfLabel": "Choose a PDF",
+  "@formPdfLabel": {
+    "description": "PDF upload label"
+  },
+  "formPdfButton": "UPLOAD",
+  "@formPdfButton": {
+    "description": "PDF upload button"
+  },
+  "formSubmit": "REGISTER COMIC",
+  "@formSubmit": {
+    "description": "Submit button label"
+  },
+  "formCancel": "CANCEL",
+  "@formCancel": {
+    "description": "Cancel button label"
+  },
+
+  "genreSuperhero": "Superhero",
+  "@genreSuperhero": {
+    "description": "Superhero genre"
+  },
+  "genreManga": "Manga",
+  "@genreManga": {
+    "description": "Manga genre"
+  },
+  "genreSciFi": "Sci-Fi",
+  "@genreSciFi": {
+    "description": "Sci-Fi genre"
+  },
+  "genreHorror": "Horror",
+  "@genreHorror": {
+    "description": "Horror genre"
+  },
+  "genreFantasy": "Fantasy",
+  "@genreFantasy": {
+    "description": "Fantasy genre"
+  },
+  "genreRomance": "Romance",
+  "@genreRomance": {
+    "description": "Romance genre"
+  },
+
+  "typeGraphicNovel": "Graphic Novel",
+  "@typeGraphicNovel": {
+    "description": "Graphic Novel type"
+  },
+  "typeManga": "Manga",
+  "@typeManga": {
+    "description": "Manga type"
+  },
+  "typeOneShot": "One-Shot",
+  "@typeOneShot": {
+    "description": "One-Shot type"
+  },
+  "typeMiniSerie": "Mini-Series",
+  "@typeMiniSerie": {
+    "description": "Mini-Series type"
+  },
+  "typeSerieOngoing": "Ongoing Series",
+  "@typeSerieOngoing": {
+    "description": "Ongoing Series type"
+  },
+
+  "profileTitle": "PROFILE",
+  "@profileTitle": {
+    "description": "Profile section title"
+  },
+  "profileCatalogs": "CATALOGS",
+  "@profileCatalogs": {
+    "description": "Catalogs menu item"
+  },
+  "profilePublication": "COMIC\nPUBLICATION",
+  "@profilePublication": {
+    "description": "Comic publication menu item"
+  },
+  "profileOnlineUsers": "ONLINE USERS",
+  "@profileOnlineUsers": {
+    "description": "Online users menu item"
+  },
+  "profileEditComics": "EDIT COMICS",
+  "@profileEditComics": {
+    "description": "Edit comics menu item"
+  },
+  "ageLabel": "Age",
+  "@ageLabel": {
+    "description": "Age label"
+  },
+  "typeLabel": "Type",
+  "@typeLabel": {
+    "description": "Type label"
+  },
+  "versionName": "ComicBook Creator Suite",
+  "@versionName": {
+    "description": "App version name"
+  },
+
+  "collectorIdentity": "COLLECTOR IDENTITY",
+  "@collectorIdentity": {
+    "description": "Collector identity card title"
+  },
+  "serialId": "SERIAL ID",
+  "@serialId": {
+    "description": "Serial ID label"
+  },
+  "archiveReference": "ARCHIVE REFERENCE",
+  "@archiveReference": {
+    "description": "Archive reference label"
+  },
+  "savePdf": "SAVE PDF",
+  "@savePdf": {
+    "description": "Save PDF button"
+  },
+  "regTemplate": "Registration Template",
+  "@regTemplate": {
+    "description": "Registration template title"
+  },
+  "regTemplateDesc": "Your comic collection entry has been processed and is ready for archival.",
+  "@regTemplateDesc": {
+    "description": "Registration template description"
+  },
+  "dateCreated": "Date Created",
+  "@dateCreated": {
+    "description": "Date created label"
+  },
+  "location": "Location",
+  "@location": {
+    "description": "Location label"
+  },
+  "address": "Address",
+  "@address": {
+    "description": "Address value"
+  },
+  "exportNote": "Your export will be saved to your local downloads folder.",
+  "@exportNote": {
+    "description": "Export note text"
+  },
+
+  "hintFirstName": "First Name",
+  "@hintFirstName": {
+    "description": "First name hint"
+  },
+  "labelFirstName": "First Name",
+  "@labelFirstName": {
+    "description": "First name label"
+  },
+  "hintLastName": "Last Name",
+  "@hintLastName": {
+    "description": "Last name hint"
+  },
+  "labelLastName": "Last Name",
+  "@labelLastName": {
+    "description": "Last name label"
+  },
+  "labelUsername": "Username",
+  "@labelUsername": {
+    "description": "Username label"
+  },
+
+  "errorRoute": "Error! Page not found",
+  "@errorRoute": {
+    "description": "Error route message"
+  }
+}
